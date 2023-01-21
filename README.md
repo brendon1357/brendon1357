@@ -1,6 +1,6 @@
 # About Me
 
-Hello! My name is Brendon and I am current a senior computer science student at MUN. 
+Hello! My name is Brendon and I am currently a senior computer science student at MUN. 
 
 I am interested in programming, software development, software engineering, web development, etc...
 
